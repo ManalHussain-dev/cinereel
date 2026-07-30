@@ -11,7 +11,7 @@ Built to show clean public API integration and polished, distinctive frontend de
 - Movie detail modal: overview, genres, runtime, release year, rating
 - Rating shown as a circular "reel" dial that fills based on score
 - API key kept server-side via a small Express proxy — never exposed to the browser
-<img width="1349" height="677" alt="2" src="https://github.com/user-attachments/assets/d26266dc-4e71-4ff9-9e98-7bf313086d33" />
+
 ## Tech stack
 
 **Frontend:** React (Vite), plain CSS
@@ -69,6 +69,6 @@ Calling TMDB directly from the browser would expose the API key in every request
 - Add a "watchlist" saved to localStorage
 - Deploy backend to Render/Railway, frontend to Vercel/Netlify
 
-<img width="1343" height="643" alt="3" src="https://github.com/user-attachments/assets/1392b5c7-0037-4525-a479-7c673056d88c" />
+
 
 
