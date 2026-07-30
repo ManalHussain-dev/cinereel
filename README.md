@@ -69,3 +69,6 @@ Calling TMDB directly from the browser would expose the API key in every request
 - Add a "watchlist" saved to localStorage
 - Deploy backend to Render/Railway, frontend to Vercel/Netlify
 <img width="1349" height="677" alt="2" src="https://github.com/user-attachments/assets/d26266dc-4e71-4ff9-9e98-7bf313086d33" />
+<img width="1343" height="643" alt="3" src="https://github.com/user-attachments/assets/1392b5c7-0037-4525-a479-7c673056d88c" />
+<img width="1354" height="681" alt="1" src="https://github.com/user-attachments/assets/428cc822-ba18-48dc-bdec-ab8261fde688" />
+
