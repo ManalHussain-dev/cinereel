@@ -47,7 +47,7 @@ Paste your TMDB key into `.env` as `TMDB_API_KEY`.
 ```bash
 npm run dev
 ```
-Runs on `http://localhost:5050`.
+Runs on https://cine-reel-2--manalhussain409.replit.app.
 
 ### 3. Frontend
 
