@@ -1,6 +1,11 @@
 # CineReel 🎬
 
 🔗 **[🎬 Live Demo](https://cine-reel-2--manalhussain409.replit.app/)** | [Code on GitHub](https://github.com/ManalHussain-dev/cinereel)
+
+
+
+
+
 A movie search app with a marquee-cinema visual identity...
 
 <img width="1354" height="681" alt="1" src="https://github.com/user-attachments/assets/428cc822-ba18-48dc-bdec-ab8261fde688" />
